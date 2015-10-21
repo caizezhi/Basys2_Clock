@@ -1,0 +1,7 @@
+verilog work "in50MHz_out_8MHz.v"
+verilog work "in50MHz_out1Hz.v"
+verilog work "counter6.v"
+verilog work "counter3.v"
+verilog work "counter10_h.v"
+verilog work "counter10.v"
+verilog work "clock.v"
